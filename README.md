@@ -5,14 +5,32 @@ My first repository
 ```
 public class oydie {
   public static void main(String [] args) {
+
     System.out.println("Hello! My name is Lloyd Miguel Ancheta from BSIT504");
+     System.out.println("Most of my friends call me Oydie");
   }
 }
 ```
-**My hobbies**
+## My favorite Manhwa series
+1. Solo Leveling
+   
+![solo-leveling](https://github.com/KiraNaDelulu/app-dev/assets/153261870/0defd6e1-7552-4a9c-98c5-d9d81dab2b31)
 
+2. Legend of the Northern Blade
 
-**Kpop Groups that I stan🧡**
+![manhwa](https://github.com/KiraNaDelulu/app-dev/assets/153261870/ce5b035d-75c7-4b77-bc08-6f5d6ab67c73)
+
+3. The Beginning after the end
+
+![the-beginning-after-the-end-arthur-leywin](https://github.com/KiraNaDelulu/app-dev/assets/153261870/f15fb245-81ec-4ea6-9972-929f67373b92)
+
+4. Eleceed
+
+![kayden-cat](https://github.com/KiraNaDelulu/app-dev/assets/153261870/7e4c7df7-f28d-487b-a0d1-9cd14b6b9eb8)
+
+**===========================================================================================**
+
+## Kpop Groups that I stan🧡
 1. Twice💕
    
 ![twice](https://github.com/KiraNaDelulu/app-dev/assets/153261870/2b2830bb-e667-4115-a0d3-d8ce3c1817fe)
